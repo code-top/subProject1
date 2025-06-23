@@ -1,2 +1,2 @@
 # subProject1
-sub project
+sub project readme
